@@ -1,0 +1,11 @@
+venv/
+.venv/
+**pycache**/
+*.py[cod]
+.pytest_cache/
+vector_db/
+output_images/
+financial_data.pdf
+.env
+.env.*
+!.env.example
